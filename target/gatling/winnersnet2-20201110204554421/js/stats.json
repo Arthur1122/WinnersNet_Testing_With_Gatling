@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 3,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 41,
+        "ok": 41,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1736,
+        "ok": 1736,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1028,
+        "ok": 1028,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 720,
+        "ok": 720,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1307,
+        "ok": 1307,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1522,
+        "ok": 1522,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1693,
+        "ok": 1693,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1727,
+        "ok": 1727,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 1,
+    "percentage": 33
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 2,
+    "percentage": 67
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.05454545454545454,
+        "ok": 0.05454545454545454,
+        "ko": 0
+    }
+},
+"contents": {
+"req_homepage-c1756": {
+        "type": "REQUEST",
+        "name": "HomePage",
+"path": "HomePage",
+"pathFormatted": "req_homepage-c1756",
+"stats": {
+    "name": "HomePage",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 1307,
+        "ok": 1307,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1307,
+        "ok": 1307,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1307,
+        "ok": 1307,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1307,
+        "ok": 1307,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1307,
+        "ok": 1307,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1307,
+        "ok": 1307,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1307,
+        "ok": 1307,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.01818181818181818,
+        "ok": 0.01818181818181818,
+        "ko": 0
+    }
+}
+    },"req_viewrecomendedb-39d5c": {
+        "type": "REQUEST",
+        "name": "ViewRecomendedBookmakerPage",
+"path": "ViewRecomendedBookmakerPage",
+"pathFormatted": "req_viewrecomendedb-39d5c",
+"stats": {
+    "name": "ViewRecomendedBookmakerPage",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 41,
+        "ok": 41,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 41,
+        "ok": 41,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 41,
+        "ok": 41,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 41,
+        "ok": 41,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 41,
+        "ok": 41,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 41,
+        "ok": 41,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 41,
+        "ok": 41,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.01818181818181818,
+        "ok": 0.01818181818181818,
+        "ko": 0
+    }
+}
+    },"req_fullreviewpage-e2ae8": {
+        "type": "REQUEST",
+        "name": "FullReviewPage",
+"path": "FullReviewPage",
+"pathFormatted": "req_fullreviewpage-e2ae8",
+"stats": {
+    "name": "FullReviewPage",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 1736,
+        "ok": 1736,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1736,
+        "ok": 1736,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1736,
+        "ok": 1736,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1736,
+        "ok": 1736,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1736,
+        "ok": 1736,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1736,
+        "ok": 1736,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1736,
+        "ok": 1736,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.01818181818181818,
+        "ok": 0.01818181818181818,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "winnersNet",
+  "simulationId": "winnersnet",
+  "start": 1605031876298,
+  "description": "",
+  "scenarios": ["winnersNet"],
+  "assertions": [
+
+  ]
+}

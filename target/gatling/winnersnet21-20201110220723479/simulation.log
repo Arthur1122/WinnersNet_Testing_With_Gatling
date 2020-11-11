@@ -1,0 +1,10 @@
+RUN	winnersNet21	winnersnet21	1605046043479	 	3.4.1
+USER	winnersNet2	START	1605046046201
+REQUEST		HomePage	1605046046251	1605046047664	OK	 
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046052788
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046059856
+REQUEST		ViewRecommendedBookmakersPage	1605046067592	1605046067634	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046070901
+REQUEST		FullReviewPage	1605046075881	1605046077430	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046077434
+USER	winnersNet2	END	1605046077927

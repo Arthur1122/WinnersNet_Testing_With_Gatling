@@ -1,0 +1,226 @@
+RUN	winnersNet2	winnersnet2	1605046404640	 	3.4.1
+USER	winnersNet2	START	1605046406794
+USER	winnersNet2	START	1605046406803
+USER	winnersNet2	START	1605046406823
+USER	winnersNet2	START	1605046407246
+USER	winnersNet2	START	1605046406795
+USER	winnersNet2	START	1605046406815
+USER	winnersNet2	START	1605046407248
+USER	winnersNet2	START	1605046407238
+USER	winnersNet2	START	1605046406795
+USER	winnersNet2	START	1605046407249
+USER	winnersNet2	START	1605046407241
+USER	winnersNet2	START	1605046407253
+USER	winnersNet2	START	1605046407254
+USER	winnersNet2	START	1605046407256
+USER	winnersNet2	START	1605046406825
+USER	winnersNet2	START	1605046407258
+USER	winnersNet2	START	1605046407260
+USER	winnersNet2	START	1605046407258
+USER	winnersNet2	START	1605046406825
+USER	winnersNet2	START	1605046407250
+USER	winnersNet2	START	1605046407251
+USER	winnersNet2	START	1605046407266
+USER	winnersNet2	START	1605046407252
+USER	winnersNet2	START	1605046407265
+USER	winnersNet2	START	1605046407272
+REQUEST		HomePage	1605046407249	1605046407502	OK	 
+REQUEST		HomePage	1605046406890	1605046407471	OK	 
+REQUEST		HomePage	1605046406888	1605046407508	OK	 
+REQUEST		HomePage	1605046407259	1605046407464	OK	 
+REQUEST		HomePage	1605046406888	1605046407484	OK	 
+REQUEST		HomePage	1605046406891	1605046407512	OK	 
+REQUEST		HomePage	1605046406893	1605046407465	OK	 
+REQUEST		HomePage	1605046406892	1605046407509	OK	 
+REQUEST		HomePage	1605046407259	1605046407605	OK	 
+REQUEST		HomePage	1605046407270	1605046407611	OK	 
+REQUEST		HomePage	1605046407273	1605046407619	OK	 
+REQUEST		HomePage	1605046407250	1605046407633	OK	 
+REQUEST		HomePage	1605046407246	1605046407636	OK	 
+REQUEST		HomePage	1605046407241	1605046407643	OK	 
+REQUEST		HomePage	1605046407255	1605046407653	OK	 
+REQUEST		HomePage	1605046407264	1605046407664	OK	 
+REQUEST		HomePage	1605046406892	1605046407680	OK	 
+REQUEST		HomePage	1605046407253	1605046407688	OK	 
+REQUEST		HomePage	1605046407266	1605046407693	OK	 
+REQUEST		HomePage	1605046407261	1605046407704	OK	 
+REQUEST		HomePage	1605046407266	1605046407718	OK	 
+REQUEST		HomePage	1605046406888	1605046407724	OK	 
+REQUEST		HomePage	1605046407256	1605046407731	OK	 
+REQUEST		HomePage	1605046407239	1605046407739	OK	 
+REQUEST		HomePage	1605046407253	1605046407755	OK	 
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046420480
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046420483
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046420483
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046420483
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046420486
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046420491
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046420503
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046420520
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046421298
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046421360
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046421527
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046421560
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046421614
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046421671
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046421687
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046421729
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046422035
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046422317
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046422375
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046422396
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046422550
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046422594
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046422864
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046423582
+ERROR	request_33: Failed to build request: Resource winners2package/winnersnet2/0033_request.txt not found 	1605046426419
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046459843
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046461731
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046462025
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046462222
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046462988
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046463943
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046463982
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046464175
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046464180
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046465337
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046465609
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046466773
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046467601
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046468236
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046469072
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046470103
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046470147
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046470616
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046474123
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046474202
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046474715
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046475227
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046475227
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046478447
+REQUEST		ViewRecommendedBookmakersPage	1605046488800	1605046488835	OK	 
+ERROR	request_52: Failed to build request: Resource winners2package/winnersnet2/0052_request.txt not found 	1605046490081
+REQUEST		ViewRecommendedBookmakersPage	1605046494950	1605046494990	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046495284	1605046495318	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046501223	1605046501260	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046504388	1605046504424	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046505598	1605046505636	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046506598	1605046506634	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046510408
+REQUEST		ViewRecommendedBookmakersPage	1605046511300	1605046511335	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046511323	1605046511358	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046512590	1605046512626	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046515828
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046516198
+REQUEST		ViewRecommendedBookmakersPage	1605046517631	1605046517665	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046517726	1605046517763	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046518297	1605046518344	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046518672	1605046518717	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046519420
+REQUEST		ViewRecommendedBookmakersPage	1605046520255	1605046520303	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046520892
+REQUEST		ViewRecommendedBookmakersPage	1605046521428	1605046521469	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046521607	1605046521644	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046521810
+REQUEST		ViewRecommendedBookmakersPage	1605046522000	1605046522033	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046522518
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046522748
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046523899
+REQUEST		ViewRecommendedBookmakersPage	1605046524045	1605046524086	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046524927	1605046524963	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046525281	1605046525315	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046525591
+REQUEST		ViewRecommendedBookmakersPage	1605046526023	1605046526059	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046527156	1605046527193	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046527416
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046527886
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046527911
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046528428
+REQUEST		ViewRecommendedBookmakersPage	1605046528682	1605046528718	OK	 
+REQUEST		ViewRecommendedBookmakersPage	1605046528758	1605046528793	OK	 
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046529251
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046529467
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046530298
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046531044
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046533904
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046533948
+REQUEST		FullReviewPage	1605046522442	1605046535717	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046535721
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046536029
+REQUEST		FullReviewPage	1605046534984	1605046536639	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046536641
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046536704
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046536988
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046538033
+REQUEST		FullReviewPage	1605046526751	1605046538725	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046538725
+ERROR	request_74: Failed to build request: Resource winners2package/winnersnet2/0074_request.txt not found 	1605046539059
+REQUEST		FullReviewPage	1605046526695	1605046539416	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046539417
+REQUEST		FullReviewPage	1605046534620	1605046540744	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046540744
+REQUEST		FullReviewPage	1605046537028	1605046541355	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046541355
+REQUEST		FullReviewPage	1605046536801	1605046543942	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046543943
+REQUEST		FullReviewPage	1605046537917	1605046544596	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046544597
+REQUEST		FullReviewPage	1605046529268	1605046545454	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046545456
+REQUEST		FullReviewPage	1605046532439	1605046545806	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046545807
+REQUEST		FullReviewPage	1605046542946	1605046545812	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046545813
+REQUEST		FullReviewPage	1605046534369	1605046546347	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046546348
+REQUEST		FullReviewPage	1605046535507	1605046546512	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046546513
+REQUEST		FullReviewPage	1605046540395	1605046546521	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046546522
+REQUEST		FullReviewPage	1605046541840	1605046546525	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046546525
+REQUEST		FullReviewPage	1605046538083	1605046546540	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046546540
+REQUEST		FullReviewPage	1605046539975	1605046546549	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046546550
+REQUEST		FullReviewPage	1605046543801	1605046546975	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046546976
+REQUEST		FullReviewPage	1605046544484	1605046547192	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046547192
+REQUEST		FullReviewPage	1605046539730	1605046547192	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046547193
+REQUEST		FullReviewPage	1605046543198	1605046547471	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046547472
+REQUEST		FullReviewPage	1605046545857	1605046547877	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046547877
+REQUEST		FullReviewPage	1605046546069	1605046548597	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046548597
+REQUEST		FullReviewPage	1605046547070	1605046548801	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046548801
+REQUEST		FullReviewPage	1605046550372	1605046551255	OK	 
+ERROR	request_84: Failed to build request: Resource winners2package/winnersnet2/0084_request.txt not found 	1605046551255
+USER	winnersNet2	END	1605046566144
+USER	winnersNet2	END	1605046567048
+USER	winnersNet2	END	1605046569132
+USER	winnersNet2	END	1605046569751
+USER	winnersNet2	END	1605046571140
+USER	winnersNet2	END	1605046571605
+USER	winnersNet2	END	1605046575453
+USER	winnersNet2	END	1605046575656
+USER	winnersNet2	END	1605046576435
+USER	winnersNet2	END	1605046576435
+USER	winnersNet2	END	1605046576439
+USER	winnersNet2	END	1605046576818
+USER	winnersNet2	END	1605046576842
+USER	winnersNet2	END	1605046576843
+USER	winnersNet2	END	1605046576844
+USER	winnersNet2	END	1605046576850
+USER	winnersNet2	END	1605046576881
+USER	winnersNet2	END	1605046577220
+USER	winnersNet2	END	1605046577636
+USER	winnersNet2	END	1605046577637
+USER	winnersNet2	END	1605046577641
+USER	winnersNet2	END	1605046578288
+USER	winnersNet2	END	1605046579024
+USER	winnersNet2	END	1605046579033
+USER	winnersNet2	END	1605046581694
